@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Summer BBQ Party",
+            "description": "Join us for a fun-filled BBQ party in the summer sun!",
+            "type": "holiday"
+        },
+        {
+            "id": 2,
+            "title": "Charity Gala Dinner",
+            "description": "Support our cause by attending our elegant gala dinner event.",
+            "type": "charity"
+        },
+        {
+            "id": 3,
+            "title": "Tech Networking Conference",
+            "description": "Connect with industry leaders and innovators at our tech networking conference.",
+            "type": "networking"
+        },
+        {
+            "id": 4,
+            "title": "Winter Wonderland Festival",
+            "description": "Experience the magic of winter at our festival with ice skating, hot cocoa, and more!",
+            "type": "holiday"
+        },
+        {
+            "id": 5,
+            "title": "Fundraising Auction",
+            "description": "Bid on exclusive items and experiences to help raise funds for our cause.",
+            "type": "charity"
+        },
+        {
+            "id": 6,
+            "title": "Startup Pitch Night",
+            "description": "Pitch your startup idea to potential investors and partners at our pitch night event.",
+            "type": "networking"
+        },
+        {
+            "id": 7,
+            "title": "Spring Garden Party",
+            "description": "Celebrate the arrival of spring with a delightful garden party.",
+            "type": "holiday"
+        },
+        {
+            "id": 8,
+            "title": "Community Service Day",
+            "description": "Join us in giving back to the community through various service projects.",
+            "type": "charity"
+        },
+        {
+            "id": 9,
+            "title": "Art Exhibition Opening",
+            "description": "Discover amazing artworks by local artists at our exhibition opening event.",
+            "type": "networking"
+        },
+        {
+            "id": 10,
+            "title": "Halloween Costume Party",
+            "description": "Put on your spookiest costume and join us for a night of Halloween fun!",
+            "type": "holiday"
+        }
+    ]
+}
